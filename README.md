@@ -1,6 +1,6 @@
 # Planetary Orbit Simulation in Python with Pygame
 
-![screenshot](screenshots/screenshot.png)
+![screenshot](assets/demo.jpg)
 
 Experience the captivating motion of planets with this realistic planetary orbit simulation built using Python and the Pygame library. Witness the intricate gravitational dynamics of our solar system and gain insights into the wonders of planetary motion.
 
