@@ -24,7 +24,7 @@ Check out a [live demo](https://yourdemo.link) to experience the simulation in a
 - **Realistic Astronomy:** Utilizes accurate astronomical data for planet sizes, distances, and orbital velocities, offering an authentic representation of our solar system.
 - **Gravitational Physics:** Implements physics calculations to simulate gravitational forces between planets, resulting in accurate orbits and interactions.
 - **Educational:** Learn about the complex dynamics that govern planetary motion while enjoying an immersive experience.
-- **Visually Stunning:** High-quality graphics, planet textures, orbital paths, and lighting effects contribute to a captivating visual representation.
+- **Visually Stunning:** Planet textures, and orbital paths contribute to a captivating visual representation.
 - **Efficient:** Optimized and synchronized code ensures smooth performance, even on less powerful hardware.
 
 ## Installation
