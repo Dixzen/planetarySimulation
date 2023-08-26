@@ -15,7 +15,7 @@ Experience the captivating motion of planets with this realistic planetary orbit
 
 ## Demo
 
-![gif](screenshots/demo.gif)
+![gif](assets/demo.gif)
 
 Check out a [live demo](https://yourdemo.link) to experience the simulation in action.
 
