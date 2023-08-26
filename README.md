@@ -23,34 +23,19 @@ Check out a [live demo](https://yourdemo.link) to experience the simulation in a
 
 - **Realistic Astronomy:** Utilizes accurate astronomical data for planet sizes, distances, and orbital velocities, offering an authentic representation of our solar system.
 - **Gravitational Physics:** Implements physics calculations to simulate gravitational forces between planets, resulting in accurate orbits and interactions.
-- **Interactive Interface:** User-friendly Pygame interface allows you to control time acceleration, pause, and observe the planets' paths.
 - **Educational:** Learn about the complex dynamics that govern planetary motion while enjoying an immersive experience.
 - **Visually Stunning:** High-quality graphics, planet textures, orbital paths, and lighting effects contribute to a captivating visual representation.
-- **Efficient:** Optimized code ensures smooth performance, even on less powerful hardware.
+- **Efficient:** Optimized and synchronized code ensures smooth performance, even on less powerful hardware.
 
 ## Installation
 
-1. Ensure you have Python 3.x installed.
+1. Ensure you have Python 3 installed.
 2. Clone this repository: `git clone https://github.com/yourusername/planetary-orbit-simulation.git`
 3. Navigate to the project directory: `cd planetary-orbit-simulation`
 4. Install the required dependencies: `pip install pygame`
 
 ## Usage
 
-1. Run the simulation: `python main.py`
-2. Use the following controls:
-   - `Space`: Pause/resume the simulation
-   - `+` and `-`: Adjust time acceleration
-   - `Esc`: Quit the simulation
+Run the simulation: `python main.py`
 
-## Contributing
-
-Contributions are welcome! Whether you're fixing a bug, improving the documentation, or adding new features, your contributions are highly appreciated. Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to [get in touch](mailto:youremail@example.com) if you have any questions or suggestions. Happy exploring the mysteries of our solar system!
+Feel free to [get in touch](mailto:akshatdixit2017@gmail.com) if you have any questions or suggestions. Happy exploring the mysteries of our solar system!
